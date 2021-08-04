@@ -10,7 +10,7 @@ import {
 import { StatusBar } from "expo-status-bar";
 import { FontAwesome5 } from "@expo/vector-icons";
 import Constants from "expo-constants";
-import RegisterForm from '../4-register-form/RegisterForm';
+import RegisterForm from '../register-form/RegisterForm';
 
 export default function PecLogin() {
 

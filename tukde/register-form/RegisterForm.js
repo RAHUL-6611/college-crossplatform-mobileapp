@@ -13,7 +13,7 @@ import { Formik } from "formik";
 import { validationSchema } from "./validation";
 import { styles } from "./styles";
 import FormField from "./FormField";
-import MainContent from "../11-news/MainContent";
+import MainContent from "../collegeupdates/MainContent";
 
 export default function RegisterForm() {
   const [content, setContentPage] = useState(false);
